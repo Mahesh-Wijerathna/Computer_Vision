@@ -1,7 +1,7 @@
 # ---------------------------------------------------------
 # Name : Wijerathna W.M.M.T.
 # Reg No: EG/2020/4291
-# Take Home Assignment 1
+# Take Home Assignment 1 
 # Question 4
 # ---------------------------------------------------------
 import cv2
